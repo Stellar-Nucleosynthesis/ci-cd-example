@@ -1,9 +1,6 @@
 name: Vector Example Maven Package
 
 on:
-  push:
-    branches:
-      - master
   release:
     types: [created]
 
