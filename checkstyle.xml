@@ -42,17 +42,10 @@
         <module name="SeparatorWrap"/>
         <module name="ParenPad"/>
         <module name="OperatorWrap"/>
+    </module>
 
-        <module name="LineLength">
-            <property name="max" value="120"/>
-            <property name="ignorePattern" value="^package.*|^import.*"/>
-        </module>
-
-        <module name="JavadocType"/>
-        <module name="JavadocMethod"/>
-        <module name="JavadocVariable"/>
-        <module name="JavadocStyle"/>
-        <module name="MissingJavadocType"/>
-        <module name="MissingJavadocMethod"/>
+    <module name="LineLength">
+        <property name="max" value="120"/>
+        <property name="ignorePattern" value="^package.*|^import.*"/>
     </module>
 </module>

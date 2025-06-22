@@ -9,5 +9,4 @@ import org.junit.platform.suite.api.SuiteDisplayName;
 @SuiteDisplayName("Vector access methods test")
 @IncludeTags("AccessTest")
 @SelectClasses(VectorTest.class)
-public class AccessTestSuite {
-}
+public class AccessTestSuite {}

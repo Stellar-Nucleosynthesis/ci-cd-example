@@ -9,5 +9,4 @@ import org.junit.platform.suite.api.SuiteDisplayName;
 @SuiteDisplayName("Vector operator methods test")
 @IncludeTags("OperatorTest")
 @SelectClasses(VectorTest.class)
-public class OperatorTestSuite {
-}
+public class OperatorTestSuite {}

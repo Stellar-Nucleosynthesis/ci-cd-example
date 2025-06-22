@@ -9,5 +9,4 @@ import org.junit.platform.suite.api.SuiteDisplayName;
 @SuiteDisplayName("Vector creation test")
 @IncludeTags("CreationTest")
 @SelectClasses(VectorTest.class)
-public class CreationTestSuite {
-}
+public class CreationTestSuite {}
